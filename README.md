@@ -6,7 +6,7 @@
 
 Projeto construído durante o envento da RocketSeat, o NLW (Next Level Week).
 
-[Clique aqui para acessar](https://gabrielcaetano13.github.io/NLW-Rocketseat/)
+[Clique aqui para acessar](https://gabrielcaetanonlwrocketseat.vercel.app/)
 
 ## Tecnologias
 
